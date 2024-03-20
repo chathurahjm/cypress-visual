@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "cypress": "^13.7.0",
+    "cypress-image-diff-js": "^1.23.0",
+    "cypress-image-snapshot": "^4.0.1"
+  },
+  "dependencies": {
+    "cypress-image-diff-html-report": "^2.0.2"
+  }
+}
